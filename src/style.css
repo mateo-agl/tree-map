@@ -1,0 +1,19 @@
+#main {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+tspan {
+  fill: white;
+} 
+#tooltip {
+  position: absolute;
+  box-sizing: border-box;
+  pointer-events: none;
+  background-color: #737373;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 14px;
+  opacity: 0;
+}
